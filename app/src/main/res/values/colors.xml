@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_main">#10152B</color>
+    <color name="background_secondary">#1B2340</color>
+    <color name="background_card">#252D49</color>
+    <color name="purple_primary">#7C3AED</color>
+    <color name="purple_light">#A78BFA</color>
+    <color name="purple_border">#C4B5FD</color>
+    <color name="purple_dark">#5B21B6</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#C7CBE0</color>
+    <color name="text_hint">#858BA6</color>
+
+    <color name="color_error">#F87171</color>
+    <color name="color_success">#4ADE80</color>
+    <color name="color_divider">#343D5B</color>
+</resources>
